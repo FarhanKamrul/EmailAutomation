@@ -7,4 +7,6 @@ The first goal is to create a simple Chrome web extension that would either:
 - Use a language learning model to simply write the subject line of the email for me.
 
 
-
+Skills Acquired or trained as of yet:
+- Javascript (Already knew the language well enough, got some well needed practice)
+- DOM Manipulation
