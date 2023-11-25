@@ -6,10 +6,5 @@ The first goal is to create a simple Chrome web extension that would either:
 - Monitor my emails when writing them to ensure there isn't an empty subject line.
 - Use a language learning model to simply write the subject line of the email for me.
 
-The learning path for this is documented as follows:
-- Started the [FreeCodeCamp Course on Building a Chrome extension](https://www.youtube.com/watch?v=0n809nd4Zu4)
-  - Roadblocks:
-    The prerequisites are Javascript and DOM Manipulation. I have a rudimentary idea of Javascript and how it works, but I don't yet understand DOM Maipulation.
-  - Solution:
-    [Learn DOM Manipulation]()
+
 
